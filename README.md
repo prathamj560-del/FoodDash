@@ -103,7 +103,7 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/HeatBlastee/FoodDash.git
+git clone https://github.com/prathamj560-del/FoodDash.git
 cd FoodDash
 ```
 
@@ -522,7 +522,7 @@ This project is licensed under the ISC License.
 
 ## 👥 Authors
 
-- **HeatBlastee** - [GitHub Profile](https://github.com/HeatBlastee)
+- **prathamj560-del** - [GitHub Profile](https://github.com/prathamj560-del)
 
 ## 🙏 Acknowledgments
 
@@ -533,7 +533,7 @@ This project is licensed under the ISC License.
 
 ## 📞 Support
 
-For support, email your-email@example.com or open an issue in the GitHub repository.
+For support, email prathamj560@gmail.com or open an issue in the GitHub repository.
 
 ## 🐛 Bug Reports
 
